@@ -1,0 +1,21 @@
+
+@font-face{
+    font-family: RemachineScript;
+    src: url("fonts/remachine_script.ttf");
+}
+
+body{
+    font-size: 10px;
+}
+
+h1{
+    font-size: 5em;
+    font-family: 'Roboto';
+    font-weight: 700;
+}
+
+p{
+    font-size: 3em;
+    font-family: 'RemachineScript';
+    font-weight: 300;
+}
