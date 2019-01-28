@@ -28,6 +28,8 @@ function kebabToSnake(str){
     //         newString = newString.slice(0,i) + "_" + newString.slice(i+1)
     //     }
     // }
+    let array = ["Hello", "There", "Mate"]
+    
     return newString;
 }
 
