@@ -1,4 +1,4 @@
-# WebDev-Beginner
+# WebDev-Basics
 
 This is a Repository where I store simple examples and snippets of code that I write while learning new (and old) things related to web development.
 
